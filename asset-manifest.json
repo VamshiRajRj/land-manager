@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/land-manager/static/css/main.fc584a4e.chunk.css",
+    "main.js": "/land-manager/static/js/main.b554bba7.chunk.js",
+    "main.js.map": "/land-manager/static/js/main.b554bba7.chunk.js.map",
+    "runtime-main.js": "/land-manager/static/js/runtime-main.bedf411b.js",
+    "runtime-main.js.map": "/land-manager/static/js/runtime-main.bedf411b.js.map",
+    "static/js/2.62a92368.chunk.js": "/land-manager/static/js/2.62a92368.chunk.js",
+    "static/js/2.62a92368.chunk.js.map": "/land-manager/static/js/2.62a92368.chunk.js.map",
+    "static/js/3.d0571738.chunk.js": "/land-manager/static/js/3.d0571738.chunk.js",
+    "static/js/3.d0571738.chunk.js.map": "/land-manager/static/js/3.d0571738.chunk.js.map",
+    "index.html": "/land-manager/index.html",
+    "static/css/main.fc584a4e.chunk.css.map": "/land-manager/static/css/main.fc584a4e.chunk.css.map",
+    "static/js/2.62a92368.chunk.js.LICENSE.txt": "/land-manager/static/js/2.62a92368.chunk.js.LICENSE.txt",
+    "static/media/CaretRight.svg": "/land-manager/static/media/CaretRight.a2f9774b.svg",
+    "static/media/index.css": "/land-manager/static/media/Underline1.9dda66bf.svg",
+    "static/media/fence.png": "/land-manager/static/media/fence.334a1954.png",
+    "static/media/logo.png": "/land-manager/static/media/logo.d8555382.png",
+    "static/media/pattern_react.png": "/land-manager/static/media/pattern_react.2c45ac03.png",
+    "static/media/team3.jpg": "/land-manager/static/media/team3.19201574.jpg",
+    "static/media/vector-1.png": "/land-manager/static/media/vector-1.ce402ec1.png",
+    "static/media/vector-2.png": "/land-manager/static/media/vector-2.3b1eca26.png",
+    "static/media/vector-3.png": "/land-manager/static/media/vector-3.dbc9f8a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bedf411b.js",
+    "static/js/2.62a92368.chunk.js",
+    "static/css/main.fc584a4e.chunk.css",
+    "static/js/main.b554bba7.chunk.js"
+  ]
+}
